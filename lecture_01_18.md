@@ -61,5 +61,5 @@ insert(el, lst) =
   - Need to prove `insertionSort(lst)` is sorted
   - need to prove that lst is a permutation of `insertionSort(lst)`
 
-
+*see notes 02 for proofs*
 
