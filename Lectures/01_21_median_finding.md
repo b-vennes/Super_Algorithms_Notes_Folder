@@ -1,6 +1,6 @@
 ### 01/21/2019
-## Algorithms Lecture IV: Median Fidning Algorithm
-### Notes 02:27 -
+# Algorithms Lecture IV: Median Fidning Algorithm
+### Notes 02:27 - 02:31
 
 ### Median Finding Algorithm:
 - non-intuitive, surprisingly efficient algorithm
